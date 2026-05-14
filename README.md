@@ -1,5 +1,5 @@
 Pokemon Client
-This project is a simple Python OOP application using the PokeAPI and requests library. The application connects to the PokeAPI website, gets Pokemon data from the internet, and displays the Pokemon name on the terminal.
+```This project is a simple Python OOP application using the PokeAPI and requests library. The application connects to the PokeAPI website, gets Pokemon data from the internet, and displays the Pokemon name on the terminal.
 
 Requirements
 Python and uv must be installed on your computer.
